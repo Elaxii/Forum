@@ -5,9 +5,9 @@
 <table class="editorDemoTable">
 <thead>
 <tr>
-<td>Name of the feature</td>
-<td>status</td>
-<td>Finished</td>
+<td><b>Name of the feature</b></td>
+<td><b>status</b></td>
+<td><b>Finished</b></td>
 </tr>
 </thead>
 <tbody>
