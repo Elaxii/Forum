@@ -1,7 +1,7 @@
 # IdustrialGaming
 ## Forumsoftware
 
-The forumsoftware of IndustrialGaming is one of the mst inventive and fastest forumsoftwares ever made. This is why:
+The forumsoftware of IndustrialGaming is one of the most inventive and fastest forumsoftwares ever made. This is why:
 
 * Inventive
 * Fast
