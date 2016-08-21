@@ -1,13 +1,4 @@
 # IdustrialGaming
 ## Forumsoftware
 
-The forumsoftware of IndustrialGaming is one of the mst inventive and fastest forumsoftwares ever made. This is why:
-
-* Inventive
-* Fast
-* Fulley customizable
-* Flexible
-* Plugins
-* Add-ons
-* And much more...
-More info to come...
+IdustrialGaming is the new simple method of foruming. With it’s easy set-up and advanced software modules, it allowes you to create the best experience for your users.
