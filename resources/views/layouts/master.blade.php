@@ -21,7 +21,7 @@
       <meta property="og:title" content=""/>
       <meta property="og:description" content=""/>
       <meta property="og:image" content=""/>
-      <link rel="shortcut icon" href="{{ asset('favicon.ico') }}"/>
+      <link rel="shortcut icon" href="{{ asset('public/assets/favicon.ico') }}"/>
 
       <!-- CSS -->
       <link href="{{ asset('public/assets/css/bootstrap/bootstrap.min.css') }}" rel="stylesheet">
