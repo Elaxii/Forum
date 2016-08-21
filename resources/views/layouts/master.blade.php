@@ -24,7 +24,7 @@
       <link rel="shortcut icon" href="{{ asset('favicon.ico') }}"/>
 
       <!-- CSS -->
-      <link href="{{ asset('css/bootstrap/bootstrap.min.css') }}" rel="stylesheet">
+      <link href="{{ asset('public/assets/css/bootstrap/bootstrap.min.css') }}" rel="stylesheet">
   </head>
 
       
