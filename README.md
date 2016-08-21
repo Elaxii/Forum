@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 style="color: #2e6c80;">IdustrialGaming</h1>
 <h4 style="color: #2e6c80;">Forumsoftware how it should be.</h4>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
@@ -120,18 +119,3 @@
 </tbody>
 </table>
 <p>&nbsp;Hope you like it!</p>
-=======
-# IdustrialGaming
-## Forumsoftware
-
-The forumsoftware of IndustrialGaming is one of the most inventive and fastest forumsoftwares ever made. This is why:
-
-* Inventive
-* Fast
-* Fulley customizable
-* Flexible
-* Plugins
-* Add-ons
-* And much more...
-More info to come...
->>>>>>> origin/master
